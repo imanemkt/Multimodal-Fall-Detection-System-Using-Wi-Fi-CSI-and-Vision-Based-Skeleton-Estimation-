@@ -192,13 +192,14 @@ All experiments were run on Kaggle notebooks with a single NVIDIA Tesla T4 GPU (
 
 PyTorch, torchvision, timm, scikit-learn, XGBoost, NumPy, pandas, Matplotlib, OpenCV.
 
-## Thesis
 
-Full text: `[add a link to the thesis PDF in docs/ here]`
 
 ## Author
 
 **Imane Mokhtari**, Master in Artificial Intelligence and Emerging Technologies, FSA Nador, University Mohammed Premier, Oujda, 2025/2026.
+
+Internship / host company: Caplogy Data.
+
 Supervisor: Pr. Siham Essahraui.
 
 **Keywords:** fall detection, Wi-Fi CSI, OpenPose, multimodal fusion, deep learning
